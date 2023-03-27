@@ -14,7 +14,7 @@ A detailed description of the procedure used to obtain these MultiExp grids is p
 # Data
 
 `data/multiexp-N100-Q2E8.npz` - the preferred MultiExp quadrature rules for 1
-<= N <= 100 obtained with our most-accurate Q=2x10^8 treatment.
+<= N <= 100 obtained with our most-accurate Q=2x10^8 treatment. Preference date: Mar 27, 2023
 
 These grids can be extracted with a simple python script:
 
