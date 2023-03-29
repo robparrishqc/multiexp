@@ -18,7 +18,8 @@ A detailed description of the procedure used to obtain these MultiExp grids is p
 Preference date Mar 28, 2023.
 
 `data/multiexp-N100-Q2E8-gamma1.npz` - the MultiExp quadrature rules for 1
-<= N <= 100 obtained with the older and slower-converging Q=2x10^8, gamma=1
+<= N <= 100 obtained with the older and slower-converging Q=2x10^8, gamma=1. 
+Preference date Mar 27, 2023.
 
 These grids can be extracted with a simple python script:
 
