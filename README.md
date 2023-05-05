@@ -9,7 +9,7 @@ The MultiExp quadratures are widely used in DFT grids in the context of the smal
 
 The grids obtained in this paper were built with a Boley-Golub + Golub-Welsch procedure, and are posited (but not guaranteed) to be accurate to a maximum absolute deviation of at least 14(13) decimal digits in the roots(weights). A crucial step in the procedure was the use of high order Gauss-Legendre quadratures to seed the Boley-Golub algorithm. These Gauss-Legendre grids were obtained from the remarkable procedure of I. Bogaert, SIAM Journal on Scientific Computing 36, A1008 (2014). If you find these grids to be useful, please consider citing Bogaert, as Bogaert's grids were absolutely necessary to obtain these grids. 
 
-A detailed description of the procedure used to obtain these MultiExp grids is presented at TODO 
+A detailed description of the procedure used to obtain these MultiExp grids is presented at https://arxiv.org/abs/2305.01621
 
 # Data
 
